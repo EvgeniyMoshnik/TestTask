@@ -1,14 +1,9 @@
 package com.moshnyk.testtaskone;
 
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
-import java.io.UnsupportedEncodingException;
-import java.nio.charset.StandardCharsets;
 import java.util.Locale;
-
-import static org.junit.Assert.*;
 
 public class HelloWorldTest {
 
